@@ -9,3 +9,8 @@ Reglas de participación:
 
 2) el nombre será en etiqueta <h2> y la descripción en <p>
 3) el proyecto debe estar correctamente jerarquizado en su estructura.
+
+Nota: Todas las participaciones se harán en la rama Test-branch – no en la rama master
+cada participante pondrá participación y su nombre en su rama ejemplo:
+Git Branch Participation-jorgeisaac
+Y el código lo funcionara en la rama Test-branch
